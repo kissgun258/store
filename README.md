@@ -1,5 +1,5 @@
 # store
-此项目用于存储 [AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt/) 仓库以外的第三方软件包
+此项目用于存储自用 [AutoBuildImmortalWrt](https://github.com/kissgun258/AutoBuildImmortalWrt) 仓库以外的第三方软件包
 
 
 | 软件名称                  | 简介 / 功能描述                        | 来源 / 项目地址                                                                           |
